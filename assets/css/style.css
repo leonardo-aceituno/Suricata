@@ -1,0 +1,48 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color:#212529;
+}
+
+.color-fondo {
+    background-color: #e83e8c;
+    
+}
+
+.icons-section {
+    background-color: #17a2b8;
+}
+
+
+h1 {
+    font-weight: 700;
+    font-size: 3.125rem;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 1.063rem; 
+}
+
+P {
+    font-weight: 400;
+    
+}
+
+.navbar {
+    font-weight: 400;
+    
+}
+.list-group-item,
+.card-link {
+    font-weight: 300;
+    font-size: 0.688rem; 
+}
+
+.nav-item a {
+    color: white;
+}
